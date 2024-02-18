@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name="project_name"
+package_name="package_name"
 
 list_of_files=[
     "github/workflows/.gitkeep",
@@ -21,6 +21,7 @@ list_of_files=[
     "requirements.txt",
     "setup.py",
     "init_setup.sh",
+    "README.md",
 ]
 
 
